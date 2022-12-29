@@ -2,3 +2,4 @@
 *.xcodeproj/*
 !*.xcodeproj/project.xcworkspace/
 GeorgePhoto_Test.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+GeorgePhoto_Test.xcodeproj
