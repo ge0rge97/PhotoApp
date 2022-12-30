@@ -1,6 +1,6 @@
-# PhotoApp_Test
+# PhotoApp
 
-iOS project tp find photo in Unsplash Library.
+iOS project to find photo in Unsplash Library.
 
 In app using:
 
