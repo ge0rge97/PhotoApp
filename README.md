@@ -4,7 +4,7 @@ iOS project to find photo in Unsplash Library.
 
 In app using:
 
-- ModelViewViewmodel (MVVM) architectural pattern
+- ModelViewViewModel (MVVM) architectural pattern
 - SDWebImage
 - Unsplash API
 - UIKit
